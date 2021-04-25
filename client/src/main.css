@@ -1,0 +1,15 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.navbar-container {
+  align-items: center;
+  width: 100%;
+  height: 90px;
+  background: grey;
+  color: white;
+  display: flex;
+  justify-content: space-between;
+  padding: 0 200px;
+}
